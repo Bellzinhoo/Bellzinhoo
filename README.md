@@ -106,8 +106,7 @@ Me chamo Emerson Lucas, tenho 26 anos. Concluí o ensino técnico no SENAI, com 
 ### 📊 Estatísticas
 
 <p>
-  
-  />
+
 
 
 
