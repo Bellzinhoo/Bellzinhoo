@@ -7,14 +7,14 @@
 Me chamo Emerson Lucas, tenho 26 anos. Concluí o ensino técnico no SENAI, com o curso técnico em Redes de computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAVIC. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Olucastech](https://www.youtube.com/@o_olucastech)", onde trago videos sobre montagem de computadores, e também através do Instagram, com o perfil chamado "[Olucastech](https://www.instagram.com/olucas.tech/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@o_olucastech">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@o_olucastech">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
