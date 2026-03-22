@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Emerson Lucas, tenho 27 anos. Concluí o ensino técnico no SENAI, com o curso técnico em Redes de computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAVIC. Também crio conteúdo de PC gamer no instagram onde trago videos sobre montagem de computadores, com o perfil chamado "[Bell.setup](https://www.instagram.com/bell.setup/))".
+Me chamo Emerson Lucas, tenho 27 anos. Concluí o ensino técnico no SENAI, com o curso técnico em Redes de computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAVIC. Também crio conteúdo de PC gamer no instagram onde trago videos sobre montagem de computadores, no perfil "[Bell.setup](https://www.instagram.com/bell.setup/)".
 
 
   
